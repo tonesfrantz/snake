@@ -36,4 +36,11 @@ Classic Snake Game
 
 -   Going to use the MERN stack to build this
 
+#Welcome Page
 ![Welcome Page](wireframe/welcome_page.jpg)
+
+#Game Play
+![Game Play](wireframe/game_play.jpg)
+
+#Finish Page
+![Finish Page](wireframe/finish_page.jpg)
